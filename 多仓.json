@@ -108,5 +108,9 @@
       "url": "https://cdn.jsdelivr.net/gh/nofox00/nofox00.github.io@main/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A8.m3u",
       "name": "福建移动TV直播"
     }
+    {
+      "url": "https://cdn.jsdelivr.net/gh/nofox00/nofox00.github.io@main/%E4%B8%8A%E6%B5%B7%E8%81%94%E9%80%9A.m3u",
+      "name": "上海联通TV直播"
+    }
   ]
 }
